@@ -1,0 +1,23 @@
+{
+  "name": "cu-notice",
+  "version": "1.0.0",
+  "description": "By Soumya & Sweety",
+  "main": "build.js",
+  "scripts": {
+    "start": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sksar/CU-Notice.git"
+  },
+  "author": "Soumya, Sweety",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sksar/CU-Notice/issues"
+  },
+  "homepage": "https://github.com/sksar/CU-Notice#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.6.1"
+  }
+}
